@@ -2,7 +2,7 @@
 title: Reforestation Initiative
 description: Restoring forests and biodiversity in critical ecosystems around the world
 date: 2025-04-18
-image: /assets/img/forest-project.jpg
+image: https://placehold.co/800x600/228b22/ffffff?text=Reforestation+Initiative
 website: https://example.org/reforestation
 donation_link: https://example.org/reforestation/donate
 ---

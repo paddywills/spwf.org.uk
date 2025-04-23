@@ -2,7 +2,7 @@
 title: Clean Water Initiative
 description: Providing clean drinking water to communities in need across developing regions
 date: 2025-04-20
-image: /assets/img/sample-project.jpg
+image: https://placehold.co/800x600/0077be/ffffff?text=Clean+Water+Initiative
 website: https://example.org/clean-water
 donation_link: https://example.org/clean-water/donate
 ---

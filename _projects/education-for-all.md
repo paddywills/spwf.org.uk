@@ -2,7 +2,7 @@
 title: Education for All
 description: Supporting educational opportunities for children in underserved communities
 date: 2025-04-15
-image: /assets/img/education-project.jpg
+image: https://placehold.co/800x600/9370db/ffffff?text=Education+For+All
 website: https://example.org/education-for-all
 donation_link: https://example.org/education-for-all/donate
 ---
