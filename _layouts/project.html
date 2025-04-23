@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+<h1 class="project-title">{{ page.title }}</h1>
+
+{% if page.image %}
+<div class="project-image">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
+</div>
+{% endif %}
+
+<div class="project-content">{{ content }}</div>
+
+{% if page.website %}
+<div class="project-links">
+  <a href="{{ page.website }}" class="btn btn-primary" target="_blank"
+    >Visit Website</a
+  >
+</div>
+{% endif %} {% if page.donation_link %}
+<div class="project-donate">
+  <a href="{{ page.donation_link }}" class="btn btn-success" target="_blank"
+    >Donate Now</a
+  >
+</div>
+{% endif %}
