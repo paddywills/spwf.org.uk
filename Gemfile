@@ -4,7 +4,8 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
-# Removed html-proofer gem as it requires Ruby 3.1+
+# For testing
+gem "html-proofer", "~> 5.0"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
