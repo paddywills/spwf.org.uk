@@ -1,4 +1,4 @@
-name: "Build and Deploy"
+name: "Build and Deploy Main"
 on:
   push:
     branches:
@@ -20,7 +20,7 @@ permissions:
 # Allow one concurrent deployment
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
