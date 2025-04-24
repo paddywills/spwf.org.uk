@@ -1,0 +1,8 @@
+---
+---
+
+{% if site.maintenance_mode %}
+  {% include_relative maintenance.html %}
+{% else %}
+  {{ content }}
+{% endif %}
