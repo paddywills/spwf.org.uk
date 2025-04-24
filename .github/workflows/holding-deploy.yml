@@ -1,4 +1,4 @@
-name: Deploy Holding Page
+name: "Deploy Holding Page"
 
 on:
   push:
@@ -12,10 +12,10 @@ permissions:
   pages: write
   id-token: write
 
-# Allow concurrent deployment but don't cancel running ones
+# Allow this workflow to take precedence
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
