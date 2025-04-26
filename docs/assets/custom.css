@@ -1,0 +1,29 @@
+body {
+  background: url('/assets/background-paper.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Add a translucent content background for better readability */
+.md-main {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+/* Adjust text color for softer contrast */
+.md-content {
+  color: #2e2e2e;
+}
+
+/* Hide the footer */
+.md-footer {
+  display: none !important;
+}
+
+/* Refine link styling */
+a {
+  color: #1a4b5c;
+}
+a:hover {
+  color: #16333f;
+}

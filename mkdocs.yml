@@ -1,0 +1,28 @@
+site_name: The Sarah and Patrick Wills Foundation
+site_description: Supporting meaningful charitable work
+site_author: Sarah and Patrick Wills
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: gray
+    accent: blue gray
+  font:
+    text: Merriweather
+    code: Fira Mono
+  # logo: assets/logo.png
+  icon:
+    repo: simple/interactiondesignfoundation
+
+nav:
+  - Home: index.md
+  - Charities: charities.md
+  - About Us: about.md
+  - Contact: contact.md
+
+extra:
+  generator: false
+
+extra_css:
+  - assets/custom.css
