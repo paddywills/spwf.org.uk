@@ -6,8 +6,8 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: gray
-    accent: blue gray
+    primary: grey
+    accent: blue grey
   font:
     text: Merriweather
     code: Fira Mono
