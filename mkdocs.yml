@@ -1,6 +1,7 @@
 site_name: The Sarah and Patrick Wills Foundation
 site_description: Supporting meaningful charitable work
 site_author: Sarah and Patrick Wills
+site_url: https://spwf.org.uk/
 
 theme:
   name: material
