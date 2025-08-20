@@ -1,0 +1,5 @@
+## Python dependencies for building the site with MkDocs
+# Pin MkDocs core to the version previously deployed (see gh-pages commit message)
+mkdocs==1.6.1
+# Pin MkDocs Material (adjust as needed if you upgrade intentionally)
+mkdocs-material==9.5.29
