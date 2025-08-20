@@ -22,4 +22,10 @@ Raising funds for breast cancer research and care through inspirational art exhi
 
 ---
 
+## Key4Life  
+Rehabilitating young men at risk of offending or reoffending through innovative programmes that build emotional resilience, employability skills, and positive futures.  
+[Learn more →](https://www.key4life.org.uk)
+
+---
+
 We build long-term relationships with the organisations we support, focusing on thoughtful, sustained commitment rather than one-off grants.
