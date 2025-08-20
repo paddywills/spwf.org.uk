@@ -12,7 +12,7 @@ Supporting grassroots conservation leaders across the Global South to protect bi
 
 ## Borneo Regrow  
 Restoring Borneo’s damaged rainforest ecosystems through science-led reforestation and community partnerships.  
-[Learn more →](https://borneoregrow.org)
+*(Ceased operating 2025; original website now offline.)*
 
 ---
 
