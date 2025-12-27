@@ -3,6 +3,22 @@ body {
   background-size: cover;
 }
 
+/* Remove solid background behind the sidebar site title */
+.md-sidebar--primary .md-nav__title,
+.md-sidebar--primary .md-nav__title--site {
+  background: transparent;
+  box-shadow: none;
+}
+
+/* Remove solid background behind the table of contents */
+.md-sidebar--secondary .md-nav__title,
+.md-sidebar--secondary .md-nav__title::before,
+.md-sidebar--secondary .md-nav--secondary,
+.md-sidebar--secondary .md-nav__list {
+  background: transparent;
+  box-shadow: none;
+}
+
 /* Add a translucent content background for better readability */
 .md-main {
   background-color: rgba(255, 255, 255, 0.85);
