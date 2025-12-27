@@ -6,7 +6,7 @@ We support initiatives in ecology, education, and social good. All donations are
 
 ## Whitley Fund for Nature  
 Supporting grassroots conservation leaders across the Global South to protect biodiversity and strengthen local communities.  
-[Learn more →](https://whitleyaward.org)
+[Learn more ↗](https://whitleyaward.org)
 
 ---
 
@@ -18,14 +18,18 @@ Restoring Borneo’s damaged rainforest ecosystems through science-led reforesta
 
 ## Art for Cure  
 Raising funds for breast cancer research and care through inspirational art exhibitions and events.  
-[Learn more →](https://artforcure.org.uk)
+[Learn more ↗](https://artforcure.org.uk)
 
 ---
 
 ## Key4Life  
 Rehabilitating young men at risk of offending or reoffending through innovative programmes that build emotional resilience, employability skills, and positive futures.  
-[Learn more →](https://www.key4life.org.uk)
+[Learn more ↗](https://www.key4life.org.uk)
 
 ---
 
 We build long-term relationships with the organisations we support, focusing on thoughtful, sustained commitment rather than one-off grants.
+
+<div class="page-stamp">
+  <img src="/assets/logo.png" alt="The Sarah and Patrick Wills Foundation logo">
+</div>

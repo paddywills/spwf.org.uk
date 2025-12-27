@@ -9,4 +9,8 @@ We focus on organisations where our support can make a clear and lasting differe
 
 [Learn more about the charities we support](charities.md)
 
+<div class="page-stamp">
+  <img src="/assets/logo.png" alt="The Sarah and Patrick Wills Foundation logo">
+</div>
+
 <!-- housekeeping markers: v6 replaces duplicated content present in v5 -->

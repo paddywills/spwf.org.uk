@@ -6,3 +6,6 @@ We are a family-led initiative that supports a small number of high-impact chari
 
 The Foundation ensures transparency in its funding decisions and provides feedback to the initiatives supported.
 
+<div class="page-stamp">
+  <img src="/assets/logo.png" alt="The Sarah and Patrick Wills Foundation logo">
+</div>

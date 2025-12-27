@@ -43,3 +43,16 @@ a {
 a:hover {
   color: #16333f;
 }
+
+.page-stamp {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.page-stamp img {
+  width: 160px;
+  max-width: 45%;
+  height: auto;
+  opacity: 0.6;
+  transform: rotate(-12deg);
+}

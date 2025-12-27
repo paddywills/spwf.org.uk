@@ -14,3 +14,7 @@ United Kingdom
 
 We do not accept unsolicited requests for donations.  
 All donation decisions are made at the discretion of our three trustees.
+
+<div class="page-stamp">
+  <img src="/assets/logo.png" alt="The Sarah and Patrick Wills Foundation logo">
+</div>
