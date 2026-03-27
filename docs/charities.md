@@ -28,6 +28,12 @@ Rehabilitating young men at risk of offending or reoffending through innovative 
 
 ---
 
+## The George Pickard Programme  
+Supporting the Brain Tumour Research Campaign's George Pickard Programme, helping fund brain tumour research and improved robotic treatments.  
+[Learn more ↗](https://btrc-charity.org/the-george-pickard-programme/)
+
+---
+
 We build long-term relationships with the organisations we support, focusing on thoughtful, sustained commitment rather than one-off grants.
 
 <div class="page-stamp">
